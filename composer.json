@@ -1,0 +1,40 @@
+{
+  "name": "jungehaie/skippy",
+  "type": "library",
+  "description": "A library for sending AMQP messages to queues or exchanges with Laravel/Lumen",
+  "keywords": [
+    "laravel",
+    "laravel 5",
+    "l5",
+    "lumen",
+    "amqp",
+    "rabbitmq",
+    "amqp queue",
+    "amqp exchange",
+    "amqp message"
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0",
+    "php-amqplib/php-amqplib": "~2.6",
+    "illuminate/support": "~5.2"
+  },
+  "require-dev": {
+    "mockery/mockery": "~0.9",
+    "phpunit/phpunit": "~4.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Stanislav Goldmann",
+      "email": "stanislav.goldmann@gmail.com",
+      "role": "Developer",
+      "homepage": "https://github.com/krenor"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Skippy\\": "src/"
+    }
+  }
+}
