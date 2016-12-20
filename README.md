@@ -96,4 +96,4 @@ Skippy::send($message)->publish('magical-profile-created');
 
 ## License
 
-skippy is distributed under the terms of the [MIT license](https://github.com/krenor/skippy/blob/master/LICENSE.md)
+skippy is distributed under the terms of the [MIT license](https://github.com/krenor/skippy/blob/master/LICENCE.md)
