@@ -1,5 +1,5 @@
 {
-  "name": "jungehaie/skippy",
+  "name": "krenor/skippy",
   "type": "library",
   "description": "A library for sending AMQP messages to queues or exchanges with Laravel/Lumen",
   "keywords": [

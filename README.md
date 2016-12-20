@@ -6,7 +6,7 @@
 
 You can install this package via composer using this command:
 
-`composer require jungehaie/skippy`
+`composer require krenor/skippy`
 
 ### Laravel 5.2+
 
