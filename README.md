@@ -81,8 +81,6 @@ Skippy::send($message)->publish('magical-profile-created');
 
 ## Contributing
 
-## Contributing
-
 ### Pull Requests
 
 - **[PSR-2 Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)**
